@@ -3,6 +3,8 @@
 
 RFSec-ToolKit is a collection of Radio Frequency Communication Protocol Hacktools which are from the github platform,and Hacking Tutorial from youtube、blog post, including SDR、2G GSM、3G  、4G LTE 、5G、NFC&RFID、ZigBee and so on.
 
+[Wikipedia:List of software-defined radios](https://en.wikipedia.org/wiki/List_of_software-defined_radios)
+
 ![](http://wx4.sinaimg.cn/small/ce682c6ely1fs9gc4fy4sj204y04xt8n.jpg)
 
 ![](http://wx3.sinaimg.cn/small/ce682c6ely1fs9gc9juoej205k058glm.jpg)
@@ -288,6 +290,13 @@ UnicornTeam of Ir0nSmith [http://v.qq.com/vplus/9427cc31bad2413591069f1800862a96
 [RFIDIOt](https://github.com/AdamLaurie/RFIDIOt):python RFID / NFC library & tools
 
 [RFIDler](https://github.com/ApertureLabsLtd/RFIDler):RFIDler - Software defined RFID (LF) Reader/Writer/Emulator
+
+[libnfc](https://github.com/nfc-tools/libnfc):Platform independent Near Field Communication (NFC) library
+
+[mfoc](https://github.com/nfc-tools/mfoc):Mifare Classic Offline Cracker
+
+[mfcuk](https://github.com/nfc-tools/mfcuk):Mifare Classic Universal toolKit (MFCUK)
+
 ### Tutorial
 
 [cn0xroot.com](https://cn0xroot.com/?s=rfid)
